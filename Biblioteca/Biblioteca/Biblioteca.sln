@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BibliotecaUI", "BibliotecaUI\BibliotecaUI.vbproj", "{7F651FAD-E83A-4081-BFC5-54509C1FB3A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaUI", "BibliotecaUI\BibliotecaUI.csproj", "{7F11C523-2FB8-48FE-B805-51F79D836802}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F651FAD-E83A-4081-BFC5-54509C1FB3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F651FAD-E83A-4081-BFC5-54509C1FB3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F651FAD-E83A-4081-BFC5-54509C1FB3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F651FAD-E83A-4081-BFC5-54509C1FB3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F11C523-2FB8-48FE-B805-51F79D836802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F11C523-2FB8-48FE-B805-51F79D836802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F11C523-2FB8-48FE-B805-51F79D836802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F11C523-2FB8-48FE-B805-51F79D836802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
